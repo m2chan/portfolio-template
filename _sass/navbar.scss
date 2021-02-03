@@ -33,17 +33,12 @@ a:hover, a:focus {
 .nav-content .nav-logo {
     height: 60px;
     margin: auto;
+    
 }
 
 .nav-logo {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-
-.nav-logo img {
-    margin-left: 1rem;
-    width: calc(100px + 6vw); 
+    margin-right: auto;
+    padding: 5px 10px;
 }
 
 .nav-content nav {
